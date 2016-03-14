@@ -10,10 +10,10 @@ My very own Linux (Debian) config files:
 
 ### My Openbox Usage:  
 No mouse is allowed here!  
-1. Dedicated workspaces:  
-  * Web browser will always be on 2nd workspace.  
-  * Terminals can be spawned everywhere.  
-2. Move and resize windows:  
+1. Dedicated workspaces:
+  * Web browser will always be on 2nd workspace.
+  * Terminals can be spawned everywhere.
+2. Move and resize windows:
   * Meta + double tab on side arrow will resize the focused window to 100% height and 50% width from left or right   respectively.  
   * Meta + up arrow will toggle maximize status.  
   * Meta + horizontal arrow followed by Meta + vertical arrow will transform window into quarter of screen from selected corner.  
