@@ -16,7 +16,7 @@ No mouse is allowed here!
 2. Move and resize windows:  
   * Meta + double tab on side arrow will resize the focused window to 100% height and 50% width from left or right   respectively.  
   * Meta + up arrow will toggle maximize status.  
-  * Meta + horizontal arrow followed by Meta + vertical arrow will transform window into quarter of screen from selected   corner.  
+  * Meta + horizontal arrow followed by Meta + vertical arrow will transform window into quarter of screen from selected corner.  
 3. Interacting with different workspaces:   
   * Meta + F-n key will move to the nth workspace.  
   * Ctrl + Meta + horizontal arrow will move the focused window along with the workspace view to the adjacent selected   workspace.  
