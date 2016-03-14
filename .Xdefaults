@@ -1,0 +1,17 @@
+! General
+urxvt*scrollBar:        	false
+xvt*buffered: 						true
+xvt*cursorBlink: 					true
+! Colors
+urxvt.background:  				#0F0F0F
+urxvt.foreground:  				#FFFFFF
+*color0:									#1D1D1D
+*color1: 									#4D4D4D
+*color2: 									#FFFFFF
+*color3:									#00ffff
+URxvt*cursorBlink: 				true
+! Border
+URxvt*externalBorder: 		1
+URxvt.borderColor:      	#33B5E5
+! Font
+*font: xft:gohufont:pixelsize=11:antialias:hinting=false
