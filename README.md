@@ -1,9 +1,9 @@
 # Dotfiles  
 My very own Linux (Debian) config files:  
 **My laptop details:**  
-..* Model: Chromebook hp *pavilion* 14.  
-..* Resolution: 1366 x 768.  
-..* Os: Debian testing (atm "*tretch*").  
+  * Model: Chromebook hp *pavilion* 14.  
+  * Resolution: 1366 x 768.  
+  * Os: Debian testing (atm "*tretch*").  
 
 ### Preview:  
 ![alt img](https://raw.githubusercontent.com/arceso/Dotfiles/master/preview1.png)  
